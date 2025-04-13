@@ -6,7 +6,7 @@ A comprehensive collection of Data Structures and Algorithms implementations.
 - Stack
 - Queue
 - Linked Lists (Singly, Doubly)
-- Trees (Binary, BST, AVL)
+- Trees
 
 ## Algorithms
 - Sorting Algorithms
